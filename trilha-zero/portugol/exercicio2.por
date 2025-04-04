@@ -20,9 +20,7 @@ programa {
         }
       }
     }
-
     limpa()
-
     		escreva("Vetor: ")
     		
     			para(i=9;i>=0;i--){
